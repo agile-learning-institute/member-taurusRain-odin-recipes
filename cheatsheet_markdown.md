@@ -14,8 +14,8 @@ _This text_ is italic
 \*This text\* add the backslash to escape special characters
 
 <!--Strong-->
-**This text** is italic
-__This text__ is italic
+**This text** is strong
+__This text__ is strong
 
 <!--Strikethrough-->
 ~~This text~~ is strikethrough
@@ -56,4 +56,5 @@ Use 2 spaces after each line
 <!-- Images -->
 ![markdown logo](location of image exp)
 
-
+#### Thank you 
+## very much
